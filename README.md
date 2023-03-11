@@ -1,3 +1,2 @@
 # hello-world
-My first repository on GitHub.
-To improve is to change.
+# To improve is to change.
